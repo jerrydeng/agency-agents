@@ -71,6 +71,13 @@ Output format:
 ...
 
 ## Recommended Approach
+
+### Principle-to-Solution Mapping
+
+| Step | Action | TRIZ Principle | Rationale |
+|------|--------|---------------|-----------|
+| [priority order] | [concrete action] | [#N Principle Name] | [why this step at this priority] |
+
 [Which solution or combination you'd start with, and why]
 ```
 
